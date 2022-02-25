@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/lwnmengjing/lwnmengjing/output/github-contribution-grid-snake.svg"/>
   </div>
 
-  <div align="center">
+  <!-- <div align="center">
     <img width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lwnmengjing&layout=compact&theme=vue-dark"/>
-  </div>
+  </div> -->
 </a>
